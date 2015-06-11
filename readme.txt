@@ -18,7 +18,7 @@ eg: https://www.anonymiz.com/?http://yoursite.com/.
 == Description ==
 ≠ Anonymize your external links with anonymiz.com with ssl support 
 
-Bug Report or for support visit: https://forum.anonymiz.com
+Bug Report or pugin support visit: https://forum.anonymiz.com
 
 Most of the other plugins wont support ssl our anonymiz wordpress plugin support with ssl all external links with ssl and none ssl link will redirect from your wordpress site.
 
